@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppSem4-s2-camera</string>
+    <string name="permiso">Verificar permiso de camara</string>
+</resources>
